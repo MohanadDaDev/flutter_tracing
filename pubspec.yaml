@@ -1,6 +1,6 @@
 name: tracing_game
 description: "tracing game"
-version: 0.0.4+1  
+version: 0.0.4+1
 homepage: https://github.com/ZeyadShawki/flutter_tracing
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -18,7 +18,7 @@ dependencies:
 dev_dependencies:
   ffi: ^2.1.0
   ffigen: ^11.0.0
-  
+
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
@@ -44,7 +44,7 @@ flutter:
 
   # To add assets to your plugin package, add an assets section, like this:
   assets:
-  
+
     - packages/tracing_game/assets/images/position_2_finger.png
 # // lower english
 
@@ -81,7 +81,7 @@ flutter:
     - packages/tracing_game/assets/phontics_assets_points/english_phontics/x_PointsInfo.json
     - packages/tracing_game/assets/phontics_assets_points/english_phontics/y_PointsInfo.json
     - packages/tracing_game/assets/phontics_assets_points/english_phontics/z_PointsInfo.json
-# // arabic 
+# // arabic
     - packages/tracing_game/assets/phontics_assets_points/arabic_phontics/alef_big_PointsInfo.json
     - packages/tracing_game/assets/phontics_assets_points/arabic_phontics/3en_big_PointsInfo.json
     - packages/tracing_game/assets/phontics_assets_points/arabic_phontics/3en_small_PointsInfo.json
